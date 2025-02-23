@@ -17,7 +17,7 @@ The Beehive Data Simulator is a sophisticated tool designed to generate realisti
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Chiktora/beehive-simulator.git]
+git clone https://github.com/Chiktora/beehive-simulator.git
 cd beehive-simulator
 ```
 
