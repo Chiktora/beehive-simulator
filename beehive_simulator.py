@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import math
 
 # ThingSpeak settings
-API_KEY = '2XT7DIZ2NLXKWZ6F'
+API_KEY = """[YOUR_API_KEY]"""
 BASE_URL = 'https://api.thingspeak.com/update'
 
 class WeatherPattern:
